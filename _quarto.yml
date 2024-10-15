@@ -6,6 +6,7 @@ website:
   page-navigation: false
   title: "Palaeobiology with R: Methods for deep-time data analysis"
   description: "Transmitting Science 2024 Course - Palaeobiology with R: Methods for deep-time data analysis"
+  site-url: https://course.palaeobiology.org
   repo-url: https://github.com/LewisAJones/2024-TS-palaeobiology-with-r/
   repo-actions: [edit, issue]
   open-graph: true
