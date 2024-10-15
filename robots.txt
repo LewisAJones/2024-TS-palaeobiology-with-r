@@ -1,1 +1,1 @@
-Sitemap: https://LewisAJones.github.io/2024-TS-palaeobiology-with-r/sitemap.xml
+Sitemap: https://course.palaeobiology.org/sitemap.xml
