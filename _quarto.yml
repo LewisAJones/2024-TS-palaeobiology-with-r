@@ -1,0 +1,73 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: false
+  title: "Palaeobiology with R: Methods for deep-time data analysis"
+  description: "Transmitting Science 2024 Course - Palaeobiology with R: Methods for deep-time data analysis"
+  site-url: https://course.palaeobiology.org
+  repo-url: https://github.com/LewisAJones/2024-TS-palaeobiology-with-r/
+  repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card: true
+  image: images/logo.png
+
+  sidebar:
+    border: true
+    logo: images/logo.png
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/palaeoverse
+        text: "GitHub organization"
+      - icon: twitter
+        href: https://twitter.com/ThePalaeoverse
+        text: "Twitter"
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Overview
+      - href: schedule.qmd
+        text: Schedule
+      - href: instructors.qmd
+        text: Instructors
+      - section: "Day 1"
+        contents:
+          - href: Day_01/index.qmd
+            text: Introduction
+      - section: "Day 2"
+        contents:
+          - href: Day_02/index.qmd
+            text: Introduction
+      - section: "Day 3"
+        contents:
+          - href: Day_03/index.qmd
+            text: Introduction
+      - section: "Day 4"
+        contents:
+          - href: Day_04/index.qmd
+            text: Introduction
+      - section: "Day 5"
+        contents:
+          - href: Day_05/index.qmd
+            text: "Day 5"
+            
+  page-footer:
+    border: true
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2024, Lewis A. Jones"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+editor: source
