@@ -6,11 +6,11 @@ website:
   page-navigation: false
   title: "Palaeobiology with R: Methods for deep-time data analysis"
   description: "Transmitting Science 2024 Course - Palaeobiology with R: Methods for deep-time data analysis"
-  site-url: https://course.palaeobiology.org
   repo-url: https://github.com/LewisAJones/2024-TS-palaeobiology-with-r/
   repo-actions: [edit, issue]
   open-graph: true
   twitter-card: true
+  favicon: images/logo.png
   image: images/logo.png
 
   sidebar:
@@ -20,10 +20,10 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/palaeoverse
-        text: "GitHub organization"
+        href: https://github.com/LewisAJones
+        text: "GitHub"
       - icon: twitter
-        href: https://twitter.com/ThePalaeoverse
+        href: https://twitter.com/LewisAlanJones
         text: "Twitter"
     style: "docked"
     search: true
