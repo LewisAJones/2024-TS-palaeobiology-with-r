@@ -1,12 +1,34 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
+    "objectID": "Day_02/index.html",
+    "href": "Day_02/index.html",
     "title": "2024-TS-palaeobiology-with-r",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "Schedule"
+      "Day 2",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Palaeobiology with R: Methods for deep-time data analysis",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "Day_04/index.html",
+    "href": "Day_04/index.html",
+    "title": "2024-TS-palaeobiology-with-r",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Day 4",
+      "Introduction"
     ]
   },
   {
@@ -15,6 +37,38 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Day_05/index.html",
+    "href": "Day_05/index.html",
+    "title": "2024-TS-palaeobiology-with-r",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Day 5",
+      "Day 5"
+    ]
+  },
+  {
+    "objectID": "Day_01/index.html",
+    "href": "Day_01/index.html",
+    "title": "2024-TS-palaeobiology-with-r",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Day 1",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "2024-TS-palaeobiology-with-r",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Schedule"
+    ]
   },
   {
     "objectID": "instructors.html",
@@ -34,60 +88,6 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
       "Day 3",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "Day_05/index.html",
-    "href": "Day_05/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 5",
-      "Day 5"
-    ]
-  },
-  {
-    "objectID": "Day_02/index.html",
-    "href": "Day_02/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 2",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "Day_04/index.html",
-    "href": "Day_04/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 4",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Palaeobiology with R: Methods for deep-time data analysis",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "Day_01/index.html",
-    "href": "Day_01/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 1",
       "Introduction"
     ]
   }
