@@ -1,5 +1,6 @@
 ---
 title: "Palaeobiology with R: Methods for deep-time data analysis"
+toc: false
 ---
 
 # Course overview
