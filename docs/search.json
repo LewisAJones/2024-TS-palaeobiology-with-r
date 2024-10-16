@@ -4,17 +4,119 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "All times are given in Central European Time (CET) - Madrid, Spain (UTC + 01:00). Check times for your time zone here.\n\n\n\nDay\nTime\nTopic\n\n\n\n\nDay 1 - 25th November 2024\n14:00\nLecture\n\n\n\n14:45\nCode walkthrough\n\n\n\n15:15\nIndividual practise\n\n\n\n15:45\nBreak ☕\n\n\n\n16:00\nLecture\n\n\n\n16:45\nCode walkthrough\n\n\n\n17:15\nIndividual practise\n\n\n\n17:45\nQ&A\n\n\nDay 2 - 26th November 2024\n14:00\nLecture\n\n\n\n14:45\nCode walkthrough\n\n\n\n15:15\nIndividual practise\n\n\n\n15:45\nBreak ☕\n\n\n\n16:00\nLecture\n\n\n\n16:45\nCode walkthrough\n\n\n\n17:15\nIndividual practise\n\n\n\n17:45\nQ&A\n\n\nDay 3 - 27th November 2024\n14:00\nLecture\n\n\n\n14:45\nCode walkthrough\n\n\n\n15:15\nIndividual practise\n\n\n\n15:45\nBreak ☕\n\n\n\n16:00\nLecture\n\n\n\n16:45\nCode walkthrough\n\n\n\n17:15\nIndividual practise\n\n\n\n17:45\nQ&A\n\n\nDay 4 - 28th November 2024\n14:00\nLecture\n\n\n\n14:45\nCode walkthrough\n\n\n\n15:15\nIndividual practise\n\n\n\n15:45\nBreak ☕\n\n\n\n16:00\nLecture\n\n\n\n16:45\nCode walkthrough\n\n\n\n17:15\nIndividual practise\n\n\n\n17:45\nQ&A\n\n\nDay 5 - 29th November 2024\n14:00\nLecture\n\n\n\n14:45\nCode walkthrough\n\n\n\n15:15\nIndividual practise\n\n\n\n15:45\nBreak ☕\n\n\n\n16:00\nLecture\n\n\n\n16:45\nCode walkthrough\n\n\n\n17:15\nIndividual practise\n\n\n\n17:45\nQ&A",
+    "text": "All times are given in Central European Time (CET) - Madrid, Spain (UTC + 01:00). Check times for your time zone here.\nLecture (🗣) – Walk through (🚶) – Hands on (🧑‍💻) – Break (☕) – Q&A (❓)\n\n\n\nDay\nTime\nUnit\nTopic\n\n\n\n\nDay 1 - 25th November 2024\n14:00\n\n🗣 Course introduction\n\n\n\n14:15\n1\n🗣️ Introduction to Diversity and Analytical Palaeobiology\n\n\n\n15:00\n\n🚶 Introduction to the Paleobiology Database\n\n\n\n15:25\n\n🧑‍💻 Getting hands on with the Paleobiology Database\n\n\n\n15:45\n\n☕ Break\n\n\n\n16:00\n2\n🗣️ Introduction to Fossil Record Bias\n\n\n\n16:45\n\n🚶 Code walkthrough\n\n\n\n17:15\n\n🧑‍💻 Individual practise\n\n\n\n17:45\n\n❓ Q&A\n\n\nDay 2 - 26th November 2024\n14:00\n3\n🗣️ Data cleaning and preparation\n\n\n\n14:45\n\n🚶 Cleaning and preparing data with palaeoverse\n\n\n\n15:15\n\n🧑‍💻 Clean your own data\n\n\n\n15:45\n\n☕ Break\n\n\n\n16:00\n4\n🗣️ Lecture\n\n\n\n16:45\n\n🚶 Code walkthrough\n\n\n\n17:15\n\n🧑‍💻 Individual practise\n\n\n\n17:45\n\n❓ Q&A\n\n\nDay 3 - 27th November 2024\n14:00\n5\n🗣️ Lecture\n\n\n\n14:45\n\n🚶 Code walkthrough\n\n\n\n15:15\n\n🧑‍💻 Individual practise\n\n\n\n15:45\n\n☕ Break\n\n\n\n16:00\n6\n🗣️ Lecture\n\n\n\n16:45\n\n🚶 Code walkthrough\n\n\n\n17:15\n\n🧑‍💻 Individual practise\n\n\n\n17:45\n\n❓ Q&A\n\n\nDay 4 - 28th November 2024\n14:00\n7\n🗣️ Deep-time macroecology\n\n\n\n14:45\n\n🚶 Palaeogeographic reconstructions\n\n\n\n15:15\n\n🧑‍💻 Palaeogeographic reconstructions\n\n\n\n15:45\n\n☕ Break\n\n\n\n16:00\n8\n🗣️ Deep-time macroecology\n\n\n\n16:45\n\n🚶 Latitudinal biodiversity gradient\n\n\n\n17:15\n\n🧑‍💻 Latitudinal biodiversity gradient\n\n\n\n17:45\n\n❓ Q&A\n\n\nDay 5 - 29th November 2024\n14:00\n9\n🗣️ Lecture\n\n\n\n14:45\n\n🚶 Code walkthrough\n\n\n\n15:15\n\n🧑‍💻 Individual practise\n\n\n\n15:45\n\n☕ Break\n\n\n\n16:00\n10\n🗣️ Resources\n\n\n\n16:45\n\n🧑‍💻 Independent projects\n\n\n\n17:15\n\n🧑‍💻 Independent projects\n\n\n\n17:45\n\n❓ Q&A",
     "crumbs": [
       "Schedule"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Day_01/unit_02.html",
+    "href": "Day_01/unit_02.html",
+    "title": "Unit 2",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Unit 2 content",
+    "crumbs": [
+      "Day 1",
+      "Unit 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Palaeobiology with R: Methods for deep-time data analysis",
+    "section": "",
+    "text": "Course overview\nIn this introductory course to Analytical Palaeobiology attendees will be provided with an extensive guide to the theory behind it, and tools available for getting started with reconstructing deep-time macroecological and macroevolutionary patterns.\nFirst, key concepts such as the structure of the fossil record and associated geological and anthropogenic biases will be introduced, followed by the type of data and databases available for reconstructing deep-time biodiversity trends. Subsequently, we will introduce various tools available within the R environment for modelling deep-time macroecological and macroevolutionary patterns, and testing hypotheses.\nThis course will provide an extensive introduction to palaeoverse, an R package that supports data preparation and exploration for paleobiological analysis. Additional packages developed by Palaeoverse, such as rmacrostrat, will also be introduced along with the versatility R has to offer.\nParticipants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the workshop to their research questions.\n\n\nInstallation\nPlease ensure that you have the latest version of R installed for the course, which can be downloaded here. We also recommend installing the latest version of RStudio, which can be downloaded here. To minimize any installation issues during the workshop, please also install the following R packages:\n\ninstall.packages(pkgs = c(\"palaeoverse\", \"rmacrostrat\"))\n\n\n\nIntended audience and assumed background\nThis course is addressed to any palaeobiologist interested in learning tools to develop their analysis.\nBasic knowledge of R is required to follow the course.\n\n\nDates and schedule\nOnline live sessions on November 25–29th, 2024.\n14:00–18:00 (Madrid time zone). See full schedule.\nTotal course hours: 20.\n\n\nFormat\nIn the live sessions, we will combine online lectures with hands-on computational exercises, in R. Participants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the course to their research questions.\nLive sessions will be recorded. However, attendance to the live sessions is required to obtain the course certificate.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "Day_04/unit_07.html",
+    "href": "Day_04/unit_07.html",
+    "title": "Unit 7",
+    "section": "",
+    "text": "Unit 7 content",
+    "crumbs": [
+      "Day 4",
+      "Unit 7"
+    ]
+  },
+  {
+    "objectID": "Day_03/unit_06.html",
+    "href": "Day_03/unit_06.html",
+    "title": "Unit 6",
+    "section": "",
+    "text": "Unit 6 content",
+    "crumbs": [
+      "Day 3",
+      "Unit 6"
+    ]
+  },
+  {
+    "objectID": "Day_02/unit_03.html",
+    "href": "Day_02/unit_03.html",
+    "title": "Unit 3",
+    "section": "",
+    "text": "Unit 3 content",
+    "crumbs": [
+      "Day 2",
+      "Unit 3"
+    ]
+  },
+  {
+    "objectID": "Day_05/unit_10.html",
+    "href": "Day_05/unit_10.html",
+    "title": "Unit 10",
+    "section": "",
+    "text": "Unit 10 content",
+    "crumbs": [
+      "Day 5",
+      "Unit 10"
+    ]
+  },
+  {
+    "objectID": "Day_05/unit_09.html",
+    "href": "Day_05/unit_09.html",
+    "title": "Unit 9",
+    "section": "",
+    "text": "Unit 9 content",
+    "crumbs": [
+      "Day 5",
+      "Unit 9"
+    ]
+  },
+  {
+    "objectID": "Day_02/unit_04.html",
+    "href": "Day_02/unit_04.html",
+    "title": "Unit 4",
+    "section": "",
+    "text": "Unit 4 content",
+    "crumbs": [
+      "Day 2",
+      "Unit 4"
+    ]
+  },
+  {
+    "objectID": "Day_03/unit_05.html",
+    "href": "Day_03/unit_05.html",
+    "title": "Unit 5",
+    "section": "",
+    "text": "Unit 5 content",
+    "crumbs": [
+      "Day 3",
+      "Unit 5"
+    ]
+  },
+  {
+    "objectID": "Day_04/unit_08.html",
+    "href": "Day_04/unit_08.html",
+    "title": "Unit 8",
+    "section": "",
+    "text": "Unit 8 content",
+    "crumbs": [
+      "Day 4",
+      "Unit 8"
+    ]
   },
   {
     "objectID": "instructors.html",
@@ -27,68 +129,21 @@
     ]
   },
   {
-    "objectID": "Day_03/index.html",
-    "href": "Day_03/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 3",
-      "Introduction"
-    ]
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "Day_05/index.html",
-    "href": "Day_05/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
+    "objectID": "Day_01/unit_01.html",
+    "href": "Day_01/unit_01.html",
+    "title": "Unit 1",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 5",
-      "Day 5"
-    ]
-  },
-  {
-    "objectID": "Day_02/index.html",
-    "href": "Day_02/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 2",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "Day_04/index.html",
-    "href": "Day_04/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Day 4",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Palaeobiology with R: Methods for deep-time data analysis",
-    "section": "",
-    "text": "Course overview\nIn this introductory course to Analytical Palaeobiology attendees will be provided with an extensive guide to the theory behind it, and tools available for getting started with reconstructing deep-time macroecological and macroevolutionary patterns.\nFirst, key concepts such as the structure of the fossil record and associated geological and anthropogenic biases will be introduced, followed by the type of data and databases available for reconstructing deep-time biodiversity trends. Subsequently, we will introduce various tools available within the R environment for modelling deep-time macroecological and macroevolutionary patterns, and testing hypotheses.\nR is one of the most popular languages in the world of Data Science and has been widely adopted by the paleobiological community to clean, analyse and plot data.\nThis course will provide an extensive introduction to palaeoverse, an R package that supports data preparation and exploration for paleobiological analysis. Additional packages developed by Palaeoverse, such as rmacrostrat, will also be introduced along with the versatility R has to offer.\nThis course will provide an opportunity for attendees to work with different researchers and gain experience working collaboratively in R to generate reproducible research.\nParticipants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the workshop to their research questions.\n\n\nIntended audience and assumed background\nThis course is addressed to any palaeobiologist interested in learning tools to develop their analysis.\nBasic knowledge of R is required to follow the course.\n\n\nDates and schedule\nOnline live sessions on November 25th–29th, 2024.\nFrom 14:00 to 18:00 (Madrid time zone). See schedule.\nTotal course hours: 20.\n\n\nFormat\nIn the live sessions we will combine online lectures with hands-on computational exercises, in R. Participants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the course to their research questions.\nLive sessions will be recorded. However, attendance to the live sessions is required to obtain the course certificate.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "Day_01/index.html",
-    "href": "Day_01/index.html",
-    "title": "2024-TS-palaeobiology-with-r",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "text": "Unit 1 content",
     "crumbs": [
       "Day 1",
-      "Introduction"
+      "Unit 1"
     ]
   }
 ]

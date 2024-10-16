@@ -4,45 +4,48 @@ title: "Schedule"
 
 All times are given in Central European Time (CET) - Madrid, Spain (UTC + 01:00). Check times for your time zone [here](https://www.timeanddate.com/worldclock/converter.html).
 
-| **Day**                      | **Time** | **Topic**           |
-|------------------------------|----------|---------------------|
-| Day 1 - 25^th^ November 2024 | 14:00    | Lecture             |
-|                              | 14:45    | Code walkthrough    |
-|                              | 15:15    | Individual practise |
-|                              | 15:45    | Break ☕            |
-|                              | 16:00    | Lecture             |
-|                              | 16:45    | Code walkthrough    |
-|                              | 17:15    | Individual practise |
-|                              | 17:45    | Q&A                 |
-| Day 2 - 26^th^ November 2024 | 14:00    | Lecture             |
-|                              | 14:45    | Code walkthrough    |
-|                              | 15:15    | Individual practise |
-|                              | 15:45    | Break ☕            |
-|                              | 16:00    | Lecture             |
-|                              | 16:45    | Code walkthrough    |
-|                              | 17:15    | Individual practise |
-|                              | 17:45    | Q&A                 |
-| Day 3 - 27^th^ November 2024 | 14:00    | Lecture             |
-|                              | 14:45    | Code walkthrough    |
-|                              | 15:15    | Individual practise |
-|                              | 15:45    | Break ☕            |
-|                              | 16:00    | Lecture             |
-|                              | 16:45    | Code walkthrough    |
-|                              | 17:15    | Individual practise |
-|                              | 17:45    | Q&A                 |
-| Day 4 - 28^th^ November 2024 | 14:00    | Lecture             |
-|                              | 14:45    | Code walkthrough    |
-|                              | 15:15    | Individual practise |
-|                              | 15:45    | Break ☕            |
-|                              | 16:00    | Lecture             |
-|                              | 16:45    | Code walkthrough    |
-|                              | 17:15    | Individual practise |
-|                              | 17:45    | Q&A                 |
-| Day 5 - 29^th^ November 2024 | 14:00    | Lecture             |
-|                              | 14:45    | Code walkthrough    |
-|                              | 15:15    | Individual practise |
-|                              | 15:45    | Break ☕            |
-|                              | 16:00    | Lecture             |
-|                              | 16:45    | Code walkthrough    |
-|                              | 17:15    | Individual practise |
-|                              | 17:45    | Q&A                 |
+Lecture (🗣) -- Walk through (🚶) -- Hands on (🧑‍💻) -- Break (☕) -- Q&A (❓)
+
+| **Day**                      | **Time** | Unit | **Topic**                                                                       |
+|--------------------------|--------------|--------------|------------------|
+| Day 1 - 25^th^ November 2024 | 14:00    |      | 🗣 Course introduction                                                           |
+|                              | 14:15    | 1    | 🗣️ Introduction to Diversity and Analytical Palaeobiology                       |
+|                              | 15:00    |      | 🚶 Introduction to the [Paleobiology Database](https://paleobiodb.org/#/)       |
+|                              | 15:25    |      | 🧑‍💻 Getting hands on with the [Paleobiology Database](https://paleobiodb.org/#/) |
+|                              | 15:45    |      | ☕ Break                                                                        |
+|                              | 16:00    | 2    | 🗣️ Introduction to Fossil Record Bias                                           |
+|                              | 16:45    |      | 🚶 Code walkthrough                                                             |
+|                              | 17:15    |      | 🧑‍💻 Individual practise                                                          |
+|                              | 17:45    |      | ❓ Q&A                                                                          |
+| Day 2 - 26^th^ November 2024 | 14:00    | 3    | 🗣️ Data cleaning and preparation                                                |
+|                              | 14:45    |      | 🚶 Cleaning and preparing data with palaeoverse                                 |
+|                              | 15:15    |      | 🧑‍💻 Clean your own data                                                          |
+|                              | 15:45    |      | ☕ Break                                                                        |
+|                              | 16:00    | 4    | 🗣️ Lecture                                                                      |
+|                              | 16:45    |      | 🚶 Code walkthrough                                                             |
+|                              | 17:15    |      | 🧑‍💻 Individual practise                                                          |
+|                              | 17:45    |      | ❓ Q&A                                                                          |
+| Day 3 - 27^th^ November 2024 | 14:00    | 5    | 🗣️ Lecture                                                                      |
+|                              | 14:45    |      | 🚶 Code walkthrough                                                             |
+|                              | 15:15    |      | 🧑‍💻 Individual practise                                                          |
+|                              | 15:45    |      | ☕ Break                                                                        |
+|                              | 16:00    | 6    | 🗣️ Lecture                                                                      |
+|                              | 16:45    |      | 🚶 Code walkthrough                                                             |
+|                              | 17:15    |      | 🧑‍💻 Individual practise                                                          |
+|                              | 17:45    |      | ❓ Q&A                                                                          |
+| Day 4 - 28^th^ November 2024 | 14:00    | 7    | 🗣️ Deep-time macroecology                                                       |
+|                              | 14:45    |      | 🚶 Palaeogeographic reconstructions                                             |
+|                              | 15:15    |      | 🧑‍💻 Palaeogeographic reconstructions                                             |
+|                              | 15:45    |      | ☕ Break                                                                        |
+|                              | 16:00    | 8    | 🗣️ Deep-time macroecology                                                       |
+|                              | 16:45    |      | 🚶 Latitudinal biodiversity gradient                                            |
+|                              | 17:15    |      | 🧑‍💻 Latitudinal biodiversity gradient                                            |
+|                              | 17:45    |      | ❓ Q&A                                                                          |
+| Day 5 - 29^th^ November 2024 | 14:00    | 9    | 🗣️ Lecture                                                                      |
+|                              | 14:45    |      | 🚶 Code walkthrough                                                             |
+|                              | 15:15    |      | 🧑‍💻 Individual practise                                                          |
+|                              | 15:45    |      | ☕ Break                                                                        |
+|                              | 16:00    | 10   | 🗣️ Resources                                                                    |
+|                              | 16:45    |      | 🧑‍💻 Independent projects                                                         |
+|                              | 17:15    |      | 🧑‍💻 Independent projects                                                         |
+|                              | 17:45    |      | ❓ Q&A                                                                          |

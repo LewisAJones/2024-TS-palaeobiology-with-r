@@ -2,38 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://course.palaeobiology.org/schedule.html</loc>
-    <lastmod>2024-10-16T11:19:06.038Z</lastmod>
+    <lastmod>2024-10-16T13:53:56.126Z</lastmod>
   </url>
   <url>
-    <loc>https://course.palaeobiology.org/about.html</loc>
-    <lastmod>2024-10-15T15:41:14.630Z</lastmod>
+    <loc>https://course.palaeobiology.org/Day_01/unit_02.html</loc>
+    <lastmod>2024-10-16T13:26:26.169Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/index.html</loc>
+    <lastmod>2024-10-16T12:07:55.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_04/unit_07.html</loc>
+    <lastmod>2024-10-16T13:33:51.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_03/unit_06.html</loc>
+    <lastmod>2024-10-16T13:33:10.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_02/unit_03.html</loc>
+    <lastmod>2024-10-16T13:33:28.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_05/unit_10.html</loc>
+    <lastmod>2024-10-16T13:34:06.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_05/unit_09.html</loc>
+    <lastmod>2024-10-16T13:34:13.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_02/unit_04.html</loc>
+    <lastmod>2024-10-16T13:33:23.838Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_03/unit_05.html</loc>
+    <lastmod>2024-10-16T13:33:16.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://course.palaeobiology.org/Day_04/unit_08.html</loc>
+    <lastmod>2024-10-16T13:33:46.266Z</lastmod>
   </url>
   <url>
     <loc>https://course.palaeobiology.org/instructors.html</loc>
     <lastmod>2024-10-16T11:25:59.176Z</lastmod>
   </url>
   <url>
-    <loc>https://course.palaeobiology.org/Day_03/index.html</loc>
+    <loc>https://course.palaeobiology.org/about.html</loc>
     <lastmod>2024-10-15T15:41:14.630Z</lastmod>
   </url>
   <url>
-    <loc>https://course.palaeobiology.org/Day_05/index.html</loc>
-    <lastmod>2024-10-15T15:41:14.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://course.palaeobiology.org/Day_02/index.html</loc>
-    <lastmod>2024-10-15T15:41:14.629Z</lastmod>
-  </url>
-  <url>
-    <loc>https://course.palaeobiology.org/Day_04/index.html</loc>
-    <lastmod>2024-10-15T15:41:14.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://course.palaeobiology.org/index.html</loc>
-    <lastmod>2024-10-16T11:29:57.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://course.palaeobiology.org/Day_01/index.html</loc>
-    <lastmod>2024-10-15T15:41:14.629Z</lastmod>
+    <loc>https://course.palaeobiology.org/Day_01/unit_01.html</loc>
+    <lastmod>2024-10-16T13:25:49.537Z</lastmod>
   </url>
 </urlset>

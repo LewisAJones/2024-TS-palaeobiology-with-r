@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -74,13 +108,13 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Transmitting Science 2024 Course - Palaeobiology with R: Methods for deep-time data analysis">
 <meta property="og:image" content="https://course.palaeobiology.org/images/logo.png">
 <meta property="og:site_name" content="Palaeobiology with R: Methods for deep-time data analysis">
-<meta property="og:image:height" content="3306">
-<meta property="og:image:width" content="2433">
+<meta property="og:image:height" content="1113">
+<meta property="og:image:width" content="2222">
 <meta name="twitter:title" content="Palaeobiology with R: Methods for deep-time data analysis">
 <meta name="twitter:description" content="Transmitting Science 2024 Course - Palaeobiology with R: Methods for deep-time data analysis">
 <meta name="twitter:image" content="https://course.palaeobiology.org/images/logo.png">
-<meta name="twitter:image-height" content="3306">
-<meta name="twitter:image-width" content="2433">
+<meta name="twitter:image-height" content="1113">
+<meta name="twitter:image-width" content="2222">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -152,8 +186,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Day_01/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
+  <a href="./Day_01/unit_01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Day_01/unit_02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 2</span></a>
   </div>
 </li>
       </ul>
@@ -169,8 +209,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Day_02/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
+  <a href="./Day_02/unit_03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 3</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Day_02/unit_04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 4</span></a>
   </div>
 </li>
       </ul>
@@ -186,8 +232,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Day_03/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
+  <a href="./Day_03/unit_05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 5</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Day_03/unit_06.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 6</span></a>
   </div>
 </li>
       </ul>
@@ -203,8 +255,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Day_04/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
+  <a href="./Day_04/unit_07.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 7</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Day_04/unit_08.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 8</span></a>
   </div>
 </li>
       </ul>
@@ -220,8 +278,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Day_05/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Day 5</span></a>
+  <a href="./Day_05/unit_09.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 9</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Day_05/unit_10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Unit 10</span></a>
   </div>
 </li>
       </ul>
@@ -237,6 +301,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#course-overview" id="toc-course-overview" class="nav-link active" data-scroll-target="#course-overview">Course overview</a></li>
+  <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
   <li><a href="#intended-audience-and-assumed-background" id="toc-intended-audience-and-assumed-background" class="nav-link" data-scroll-target="#intended-audience-and-assumed-background">Intended audience and assumed background</a></li>
   <li><a href="#dates-and-schedule" id="toc-dates-and-schedule" class="nav-link" data-scroll-target="#dates-and-schedule">Dates and schedule</a></li>
   <li><a href="#format" id="toc-format" class="nav-link" data-scroll-target="#format">Format</a></li>
@@ -269,10 +334,15 @@ ul.task-list li input[type="checkbox"] {
 <h1>Course overview</h1>
 <p>In this introductory course to Analytical Palaeobiology attendees will be provided with an extensive guide to the theory behind it, and tools available for getting started with reconstructing deep-time macroecological and macroevolutionary patterns.</p>
 <p>First, key concepts such as the structure of the fossil record and associated geological and anthropogenic biases will be introduced, followed by the type of data and databases available for reconstructing deep-time biodiversity trends. Subsequently, we will introduce various tools available within the R environment for modelling deep-time macroecological and macroevolutionary patterns, and testing hypotheses.</p>
-<p>R is one of the most popular languages in the world of Data Science and has been widely adopted by the paleobiological community to clean, analyse and plot data.</p>
 <p>This course will provide an extensive introduction to palaeoverse, an R package that supports data preparation and exploration for paleobiological analysis. Additional packages developed by Palaeoverse, such as rmacrostrat, will also be introduced along with the versatility R has to offer.</p>
-<p>This course will provide an opportunity for attendees to work with different researchers and gain experience working collaboratively in R to generate reproducible research.</p>
 <p>Participants are encouraged to bring their dataset (but not required), as the <a href="./schedule.html">schedule</a> will include time for applying the tools presented in the workshop to their research questions.</p>
+</section>
+<section id="installation" class="level1">
+<h1>Installation</h1>
+<p>Please ensure that you have the latest version of R installed for the course, which can be downloaded <a href="https://cran.r-project.org">here</a>. We also recommend installing the latest version of RStudio, which can be downloaded <a href="https://posit.co/download/rstudio-desktop/">here</a>. To minimize any installation issues during the workshop, please also install the following R packages:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="at">pkgs =</span> <span class="fu">c</span>(<span class="st">"palaeoverse"</span>, <span class="st">"rmacrostrat"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
 <section id="intended-audience-and-assumed-background" class="level1">
 <h1>Intended audience and assumed background</h1>
@@ -281,13 +351,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="dates-and-schedule" class="level1">
 <h1>Dates and schedule</h1>
-<p>Online live sessions on November 25<sup>th</sup>–29<sup>th</sup>, 2024.</p>
-<p>From 14:00 to 18:00 (Madrid time zone). See <a href="./schedule.html">schedule</a>.</p>
+<p>Online live sessions on November 25–29<sup>th</sup>, 2024.</p>
+<p>14:00–18:00 (Madrid time zone). See full <a href="./schedule.html">schedule</a>.</p>
 <p>Total course hours: 20.</p>
 </section>
 <section id="format" class="level1">
 <h1>Format</h1>
-<p>In the live sessions we will combine online lectures with hands-on computational exercises, in R. Participants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the course to their research questions.</p>
+<p>In the live sessions, we will combine online lectures with hands-on computational exercises, in R. Participants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the course to their research questions.</p>
 <p>Live sessions will be recorded. However, attendance to the live sessions is required to obtain the course certificate.</p>
 
 
