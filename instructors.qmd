@@ -1,11 +1,68 @@
 ---
-title: "2024-TS-palaeobiology-with-r"
+title: "Instructors"
+toc: false
 ---
 
-This is a Quarto website.
+Meet your course instructors
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::: {.columns}
 
-```{r}
-1 + 1
-```
+::: {.column width="20%"}
+
+![](images/lewis.jpg)
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="75%"}
+
+**[Lewis A. Jones, University College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones)**
+
+I am a Computational Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional significant theme of my research is the evaluation of the influence of data incompleteness on perceptions of the geological past, such as biodiversity trends. I also work on developing software tools and resources for the palaeobiological community with the aim of improving research reproducibility in the field.
+
+:::
+
+::: {.column width="20%"}
+
+![](images/chris.jpg)
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="75%"}
+
+**[Christopher D. Dean, University College London](https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-chris-dean)**
+
+My research focuses mainly on the human and geological factors that impact the quality of the fossil record and how these in turn may impact our view and understanding of macroecology in deep time. In particular, I am interested in how these biases are expressed across geographic space. I am currently working on applying the ecological technique of occupancy modelling to the mammalian fossil record of the last 1 million years in order to better understand patterns in extinction selectivity and range size change, as well as to provide relative biodiversity baselines for conservation.
+
+:::
+
+::: {.column width="20%"}
+
+![](images/ale.jpg)
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="75%"}
+
+**[A. Alessandro Chiarenza, University College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-alfio-alessandro-chiarenza)**
+
+I am a palaeontologist specialising in dinosaur palaeobiology, macroevolution, macroecology, and extinction. Using phylogenetic, biogeographic, statistical, and Earth System Modeling tools, my research focuses on: 
+
+- Untangling physical agents biasing the fossil record to detect genuine biodiversity signals
+- Understanding the interplay between climate change, geography, and biodiversity in macroevolution
+- Investigating the physical drivers of evolutionary adaptations and extinction
+
+:::
+
+::::

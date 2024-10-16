@@ -2,10 +2,36 @@
 title: "Palaeobiology with R: Methods for deep-time data analysis"
 ---
 
-This is a Quarto website.
+# Course overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In this introductory course to Analytical Palaeobiology attendees will be provided with an extensive guide to the theory behind it, and tools available for getting started with reconstructing deep-time macroecological and macroevolutionary patterns.
 
-```{r}
-1 + 1
-```
+First, key concepts such as the structure of the fossil record and associated geological and anthropogenic biases will be introduced, followed by the type of data and databases available for reconstructing deep-time biodiversity trends. Subsequently, we will introduce various tools available within the R environment for modelling deep-time macroecological and macroevolutionary patterns, and testing hypotheses.
+
+R is one of the most popular languages in the world of Data Science and has been widely adopted by the paleobiological community to clean, analyse and plot data.
+
+This course will provide an extensive introduction to palaeoverse, an R package that supports data preparation and exploration for paleobiological analysis. Additional packages developed by Palaeoverse, such as rmacrostrat, will also be introduced along with the versatility R has to offer.
+
+This course will provide an opportunity for attendees to work with different researchers and gain experience working collaboratively in R to generate reproducible research.
+
+Participants are encouraged to bring their dataset (but not required), as the [schedule](schedule.qmd) will include time for applying the tools presented in the workshop to their research questions.
+
+# Intended audience and assumed background
+
+This course is addressed to any palaeobiologist interested in learning tools to develop their analysis.
+
+Basic knowledge of R is required to follow the course.
+
+# Dates and schedule
+
+Online live sessions on November 25^th^–29^th^, 2024.
+
+From 14:00 to 18:00 (Madrid time zone). See [schedule](schedule.qmd).
+
+Total course hours: 20.
+
+# Format
+
+In the live sessions we will combine online lectures with hands-on computational exercises, in R. Participants are encouraged to bring their dataset (but not required), as the schedule will include time for applying the tools presented in the course to their research questions.
+
+Live sessions will be recorded. However, attendance to the live sessions is required to obtain the course certificate.

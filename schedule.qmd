@@ -1,11 +1,48 @@
 ---
-title: "2024-TS-palaeobiology-with-r"
+title: "Schedule"
 ---
 
-This is a Quarto website.
+All times are given in Central European Time (CET) - Madrid, Spain (UTC + 01:00). Check times for your time zone [here](https://www.timeanddate.com/worldclock/converter.html).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+| **Day**                      | **Time** | **Topic**           |
+|------------------------------|----------|---------------------|
+| Day 1 - 25^th^ November 2024 | 14:00    | Lecture             |
+|                              | 14:45    | Code walkthrough    |
+|                              | 15:15    | Individual practise |
+|                              | 15:45    | Break ☕            |
+|                              | 16:00    | Lecture             |
+|                              | 16:45    | Code walkthrough    |
+|                              | 17:15    | Individual practise |
+|                              | 17:45    | Q&A                 |
+| Day 2 - 26^th^ November 2024 | 14:00    | Lecture             |
+|                              | 14:45    | Code walkthrough    |
+|                              | 15:15    | Individual practise |
+|                              | 15:45    | Break ☕            |
+|                              | 16:00    | Lecture             |
+|                              | 16:45    | Code walkthrough    |
+|                              | 17:15    | Individual practise |
+|                              | 17:45    | Q&A                 |
+| Day 3 - 27^th^ November 2024 | 14:00    | Lecture             |
+|                              | 14:45    | Code walkthrough    |
+|                              | 15:15    | Individual practise |
+|                              | 15:45    | Break ☕            |
+|                              | 16:00    | Lecture             |
+|                              | 16:45    | Code walkthrough    |
+|                              | 17:15    | Individual practise |
+|                              | 17:45    | Q&A                 |
+| Day 4 - 28^th^ November 2024 | 14:00    | Lecture             |
+|                              | 14:45    | Code walkthrough    |
+|                              | 15:15    | Individual practise |
+|                              | 15:45    | Break ☕            |
+|                              | 16:00    | Lecture             |
+|                              | 16:45    | Code walkthrough    |
+|                              | 17:15    | Individual practise |
+|                              | 17:45    | Q&A                 |
+| Day 5 - 29^th^ November 2024 | 14:00    | Lecture             |
+|                              | 14:45    | Code walkthrough    |
+|                              | 15:15    | Individual practise |
+|                              | 15:45    | Break ☕            |
+|                              | 16:00    | Lecture             |
+|                              | 16:45    | Code walkthrough    |
+|                              | 17:15    | Individual practise |
+|                              | 17:45    | Q&A                 |
